@@ -1,0 +1,46 @@
+Metodologia
+
+Para este proyecto, se empleará una metodología de investigación mixta, que implica la recopilación y 
+análisis de datos tanto cuantitativos como cualitativos. La investigación cualitativa se basará en la revisión 
+de herramientas como libros y entrevistas, que se interpretarán de manera subjetiva con el fin de brindar un seguimiento más preciso a las 
+emociones de los estudiantes. Es importante destacar que esta investigación no busca proporcionar diagnósticos ni sustituir el trabajo de especialistas en emociones y 
+comportamiento humano. Por otro lado, la investigación cuantitativa se llevará a cabo mediante la realización de encuestas aleatorias a los estudiantes,
+con el objetivo de identificar patrones y áreas donde se requiere mayor seguimiento y monitoreo. Posteriormente, se realizará un análisis de los datos recopilados
+para identificar las deficiencias en el bienestar emocional de los estudiantes.
+
+Fases de la metodología:
+
+-Fase uno: 
+Analizar los patrones, los hábitos y las emociones más frecuentes presentados en los estudiantes de la Universidad San Buenaventura de Bogotá.
+Se realizar una encuesta de 9 preguntas las cuales tendrán como objetivos recolectar datos de los estudiantes de la universidad San Buenaventura, 
+en estas preguntas se tendrá en cuenta el estrés de los estudiantes, sus hábitos al momento de manejar sus emociones y así mismo parte de sus rutinas 
+al momento de tener clases o la realización de trabajos.
+
+Se escogerá una población de 40 estudiantes de la universidad San Buenaventura los cuales serán de manera aleatoria, 
+estos llenarán la encuesta propuesta y así mismo podrán hacer diferentes observaciones sobre la misma encuesta y sus preguntas.
+​​​​​​​​​​​​​​
+​​​Con las respuestas de las estudiantes recolectadas se buscará analizar los datos con el fin de tener un informe de estadísticas 
+y así generar diferentes observaciones esto con los porcentajes de cada pregunta y respuesta obtenienda, es unas graficas las cuales nos ayudaran a evaluar 
+los hábitos y así mismo el comportamiento de los diferentes estudiantes.
+
+-Fase dos: 
+Identificar las leyes que están rigiendo a la psicología y el desarrollo de Software para aplicarlas en la realización de proyecto.
+
+​​​​​​​Se realizará una consulta en las diferentes páginas y libros, los cuales proporcionen leyes adecuadas, acorde a las próximas investigaciones,
+las leyes investigadas serán las más importantes y relevantes con respecto a la psicología y el desarrollo de software.
+​​​​​​​​​​​
+Con esa investigación se buscará que el modelo base de datos no esté interfiriendo con ninguna de las leyes estipuladas.
+
+Diseñar el modelo de base de datos, en donde se evidenciará información relevante e importante.
+
+​​​​​​​-Fase tres:
+Se busca identificar los datos requeridos para la realización de tablas, esto con ayuda del tercer objetivo en el cual se especifican 
+los datos que pueden o no ser accesibles para el diseño de la aplicación.
+​​​​​​​
+Con los datos identificados se busca generar un modelo de entidad relación en el cual se evidenciarán los datos que serán reclutados 
+y en ellos las tablas que serán necesarias para crear el modelo base de datos, así mismo el nombre que se le proporcionará a las tablas y el tipo de dato permitido.
+​​​​​​​​​​​​​​
+Crearemos tablas con datos y tipos de datos correspondientes esto haciendo referencia a los datos que son permitidos ingresar y 
+en qué manera serán ingresados, después de generar las tablas necesarias se crearán las relaciones correspondientes de una tabla a otra para el correcto 
+funcionamiento de la base de datos.
+
